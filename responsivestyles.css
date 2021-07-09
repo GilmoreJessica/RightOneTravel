@@ -1,0 +1,22 @@
+/* Jessica Gilmore 6/30/2021 */
+@media screen and (min-width: 576px){
+  .col1, .col2{
+    width:100%;
+  }
+
+}
+
+@media screen and (min-width: 800px){
+  .main-content{
+    width:100%;
+    float:none;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+  .col1, .col2{
+    width:45%;
+  }
+
+}
